@@ -1,0 +1,102 @@
+# USA - Texas
+
+**Houston**
+
+NASA
+
+Space Center
+
+Houston, Texas está ubicado en la costa este del estado, aproximadamente unas 30 millas de la ciudad porteña de Galveston. Está a 350 millas al oeste de Nueva Orleáns, Luisiana y a 300 millas al noreste de la frontera con Méjico. Houston es un gran centro metropolitano con un ambiente cosmopolita sofisticado y todas las atracciones que se pueden esperar de una gran ciudad. Es el centro de negocios, tecnológico y comercial del estado de Texas.
+
+El terreno que la rodea es bajo y chato, con un clima cálido y húmedo. En las zonas agrícolas de los alrededores se cultiva algodón, caña de azúcar y arroz. El clima de verano puede ser bastante caluroso y húmedo. Los inviernos son frescos pero casi nunca muy fríos. La primavera y el otoño ofrecen a los visitantes las mejores condiciones climáticas.
+
+El Aeropuerto Intercontinental George Bush, ubicado 20 millas al norte del centro de la ciudad, es el principal aeropuerto de Houston, con muchos vuelos diarios domésticos e internacionales. El viaje en auto hasta el centro dura unos 30 - 60 minutos, dependiendo del tráfico. Hay vans y ómnibus privados que, por sólo $20, lo llevan a muchos destinos en el centro de la ciudad y otras zonas suburbanas. El Aeropuerto William P. Hobby es más pequeño, está ubicado a siete millas al sur del centro de la ciudad y ofrece muchos vuelos domésticos hacia todo Estados Unidos. Está a sólo 15 minutos del centro. Las vans y ómnibus privados desde este aeropuerto cuestan $15.
+
+Houston tiene una excelente red de rutas que incluye tres sistemas que rodean la ciudad a distintas distancias del centro. La Ruta 10 circunvala la ciudad a un radio de 4 millas. La Ruta 8 y la Ruta Sam Houston Parkway forman un cinturón doble a unas 8 millas, y la Ruta 6 forma otro cinturón exterior a casi 15 millas del centro. Hay inmensas intersecciones entre estas rutas que a veces pueden confundir a los conductores que no son de esta zona. A pesar del excelente sistema de rutas, durante las horas pico, el tránsito queda casi completamente detenido, ya sea debido a construcciones en las rutas o a la gran cantidad de vehículos.
+
+La zona del centro tiene una magnífica sección antigua de la ciudad que ha sido reconstruida e incluye un museo al aire libre, justo al lado del parque Sam Houston. El centro cultural de Houston, con su Museo de Bellas Artes, Museo de Niños, Museo de Ciencias Naturales, Museo de Artes Contemporáneas y otras atracciones culturales, se encuentra un poco más al sur. El Complejo de Entretenimientos Bayou Place y el Campo Enron, el nuevo hogar del equipo de béisbol de los Astros, están también en los alrededores.
+
+Más hacia el sur se encuentra el más antiguo, pero aún impresionante Astródomo. Es sede del show anual de ganado, que se lleva a cabo cada Febrero. Este importante festival incluye uno de los rodeos más grandes del mundo, un campeonato nacional de barbacoa, el asado americano y presentaciones en vivo de muchos artistas. Con sólo tomar la ruta Interestatal I-610 y dar una vuelta alrededor de este estadio, llegará al parque de diversiones Six Flags Astroworld y a Six Flags Waterworld.
+
+El Centro Espacial Houston está ubicado 25 millas al sudeste de la ciudad, tomando la autopista I-45, cerca de la ciudad de Texas y Galveston. Es la atracción más concurrida de toda la zona de Houston. El centro para visitantes de este establecimiento de la NASA está abierto al público de lunes a viernes durante el invierno y todos los días durante el verano. Por $15 podrá explorar las distintas exhibiciones, ver una película de I-Max, probar sus habilidades para viajar en el espacio por medio de varios recorridos interactivos y visitar los centros de control de las misiones espaciales y los centros de entrenamientos para astronautas. Esta es una excelente experiencia para niños y adultos.
+
+Otra atracción muy concurrida es el Parque Histórico Rancho George, ubicado 25 millas al sudoeste de Houston, cerca de Richmond, Texas. Este parque histórico viviente, de 480 acres, está en el centro de un rancho de ganado de 21.000 acres. Allí podrá conocer a verdaderos cowboys y observarlos realizar sus tareas de mantenimiento del rancho. Hay personajes en trajes que le mostrarán las exhibiciones históricas y le explicarán distintos aspectos de la vida de los primeros rancheros y campesinos.
+
+El Parque Estatal Campo de Batalla y el museo San Jacinto, con su obelisco de 570 pies de alturas están a unas 25 millas del centro de Houston. Este sitio conmemora la batalla que le dio a Texas su independencia. Podrá visitar el Barco de Guerra Texas, que data de la época de la Primera Guerra Mundial y que participó de la llegada a Normandía durante el Día D. El museo, el monumento y el barco están abiertos todos los días.
+
+Galveston está a menos de una hora de manejo de Houston, si viaja por la autopista I-45. Esta ciudad porteña que sirvió una vez como escondite para piratas, tiene un distrito antiguo lleno de casas Victorianas. Sus elegantes calles están bordeadas con plantas tropicales y un largo recorrido junto a la playa, con restaurantes con especialidades de peces y mariscos, clubes nocturnos y bares. Los Jardines Moody tienen tres grandes pirámides de vidrio conteniendo una selva tropical, un acuario y una laguna tropical.
+
+Por toda la zona de Houston encontrará muchos centros comerciales. La Galleria, en la zona de uptown del centro, es la más impresionante, ya que tiene una gran variedad de tiendas internacionales. Highland Village y Uptown Park son otros centros comerciales también en esta zona. Más hacia el oeste está Katy Mills Mall, con muchos negocios de venta directa de fábrica, negocios de venta al minorista, restaurantes y centros de entretenimientos. Deerbrook Mall, Willowbrook Mall y Woodlands Mall están en al norte del centro comercial. Baybrook Mall está más al sur, sobre la ruta que lo lleva a la NASA y a Galveston.
+
+El equipo de béisbol de los Astros juega en el nuevo estadio Enron. Desde principios de 2002, la nueva franquicia del Equipo de Fútbol de la Liga Nacional llamado los Houston Texans, jugarán en el nuevo Estadio Reliant. Houston también tiene un equipo de la Asociación Nacional de Básquetbol de Mujeres, llamado los Houston Comets. Hay una pista de carrera para caballos de pura raza en el noroeste de Houston, un pista de carrera para perros greyhound al sur del centro comercial, y más de una docena de campos de golf en todos los alrededores.
+
+Entre las actividades culturales que ofrece está la mundialmente famosa Sinfonía de Houston, la Gran Ópera de Houston y el Ballet de Houston. Hay varios teatros que ofrecen una variedad de obras. desde musicales de Broadway hasta producciones avant-garde y serios dramas. Podrá elegir entre muchos museos, galerías de arte y otros puestos que ofrecen toda clase de entretenimiento en este vibrante centro metropolitano.
+
+**Austin**
+
+Capitolio
+
+**Dallas**
+
+Dealey Plaza
+
+Love Field
+
+Centro
+
+**San Antonio**
+
+El Alamo
+
+**Dallas**
+
+Dallas está situada en el noreste de Texas, aproximadamente a unas 245 millas al norte de Houston y a 190 millas al sur de la Ciudad de Oklahoma. El Río Trinity corre por medio de la ciudad y hay más de 60 lagos en la zona. La mayoría de los lagos se usan para actividades recreacionales como pescar y andar en bote. Dallas es una ciudad plana. Algunas noches, los residentes de las afueras de la ciudad pueden llegar a ver el contorno verde del edificio Bank of America Plaza, en el centro de Dallas.
+
+El clima de Dallas es húmedo pero la mayoría de las caídas lluviosas ocurren en la primavera, trayendo consigo poderosas tormentas. Dallas también tiene un viento seco y caluroso durante la temporada de verano. El invierno puede ser bastante frío, casi helado. La época ideal para visitar la ciudad es durante el otoño, pero si no le importan algunas lluvias ocasionales, la primavera también puede ser agradable.
+
+La gente de Dallas también es agradable. Lo reciben con brazos abiertos y con mucha hospitalidad. Cualquier persona de visita por la ciudad probablemente escuchará el saludo "Hey, y'all!" (¡Como andan todos!). No deje de probar algunos de sus BBQ Tejanas (barbacoas o carnes asadas) y de disfrutar una comida tejana-mejicana con una margarita para beber. (La comida tejana-mejicana es de estilo tejana con un toque de sabor mejicano).
+
+Los residentes locales llaman a la zona de Dallas/Fort Worth "la Metroplex." La Metroplex se refiere a la zona urbanizada alrededor de las ciudades, conectada por más de una docena de autopistas principales. Muchas de las autopistas de Dallas tienen dos nombres y esto puede causar mucha confusión para el visitante que no se ha familiarizado con la zona. La Autopista US. 75 (Autopista Central), Interestatal 45 ( Julius Schepps) y la Interestatal 36 (Simmons) van de norte a sur. La Autopista Interestal 635 (Autopista LBJ), la Autopista 183 (Autopista del Aeropuerto), la Interestatal 30 (R.L. Thornton) y el Loop 12 (Autopista Northwest o del Noroeste) van de este a oeste. La Autopista 114 (Autopista John Carpenter) corre de noroeste a sudeste.
+
+Además de las autopistas principales que recorren Dallas, hay otra forma alternativa de transporte, el DART o Tránsito Rápido por la zona de Dallas. DART es uno de los mejores servicios de transporte que conecta Dallas con 12 pueblos próximos por medio de tres modos de servicio: Trenes DART, Servicio de Trenes Express Trinity (TRE) y un servicio de ómnibus. El TRE cubre el aeropuerto de DFW y el servicio de ómnibus sirve al aeropuerto de Dallas Love Field.
+
+El Aeropuerto Internacional Dallas/Fort Worth (DFW) está a 15 minutos de Dallas aproximadamente, y es el segundo aeropuerto más grande de todo el mundo. Es un punto central para American Airlines y sirve a más de dos docenas de aerolíneas para pasajeros.
+
+El Aeropuerto Dallas Love Field es más pequeño y está a sólo siete millas del centro de Dallas. Love Field es el punto central de Southwest Airlines y también sirve a Delta ASA y Continental Express.
+
+Uno asocia Dallas con cowboys y ranchos vaqueros, pero los visitantes generalmente se sorprenden al descubrir que la ciudad es una metrópolis que se mueve a gran velocidad. Sin embargo, los turistas todavía pueden sentirse que están en el medio del campo si visitan Southfork, mejor conocido como el sitio donde se filmó "Dallas", la serie televisiva de los años 80. La "Mansión Ewing" está ubicada al norte de Dallas, en Plano, a una media hora del centro.
+
+Hay recorridos guiados para individuos y grupos durante todo el año. La exhibición "Leyendas de Dallas" tiene en exposición la pistola que se usó para dispararle a J.R., el vestido de bodas de Lucy, el árbol genealógico de la familia Dallas, y el Lincoln Continental de Jock. Puede comer en Miss Ellie´s Deli y comprar recuerdos en dos de las tiendas de negocios dedicadas a este show.
+
+La entrada general es de $8,95, con descuentos para personas mayores y niños. Puede cenar en un Chuckwagon (carreta de provisiones de los pioneros vaqueros) si su grupo consiste de más de 20 personas. El entretenimiento durante la cena lo brindarán los cowboys y rancheros, con canciones y poesía vaquera.
+
+El Distrito Histórico del centro de West End, también conocido simplemente como "West End", se destaca por sus edificios de almacenamiento restaurados y de ladrillo rojo. Estos viejos edificios hoy tienen docenas de restaurantes, negocios, bares y clubes bailables.
+
+El Famoso Mercado de West End, de cuatro pisos, era antes una fábrica de caramelos y galletitas, pero ahora tiene actividades y entretenimiento para todas las edades. En el primer pisa está el Centro Para Visitantes del Mercado de West End. Los distintos niveles, llenos de lugares para comer, negocios de joyería étnica, el Teatro de Comedia West End, Tiendas de estilo Tejano y de Ropa del Oeste, están todos conectados por escaleras eléctricas. El tercer piso tiene una tienda de fotografía donde los visitantes se pueden vestir con trajes y sacarse una foto con escenas del Antiguo Oeste y de la Era Victoriana. El cuarto piso tiene un bar de deportes y un campo de golf en miniatura cubierto.
+
+os fines de semana, las calles del Distrito Histórico West End se llenan de vida, cuando la gente toma paseos en carruajes tirados por caballos, saliendo a caminar para ver a los artistas de la calle o disfrutando los conciertos de verano.
+
+Hay muchas opciones de bares en Dallas Ally, que es un grupo de varios clubes con distintos tipos de música, y en Market Street, una de las calles principales de West End, se encuentra Gator´s Crock & Rock con entretenimiento en vivo de música de piano. El West End es un muy buen lugar para sentarse y relajarse después de un día de actividad y comer algo, o simplemente para disfrutar una cerveza fría antes de ponerse a bailar.
+
+El Museo del Sexto Piso en Dealey Plaza esta ubicado en el Distrito Histórico de West End. El museo ayuda a sus visitantes a volver para atrás en el tiempo hasta el 22 de Noviembre de 1963, el día en que John F. Kennedy fue asesinado. El Museo del Sexto Piso en Dealey Plaza consiste de una exhibición permanente de cientos de fotografías, documentales y reliquias que celebran el legado de John F. Kennedy, al mismo tiempo enfocándose en su trágica muerte y la impresión que le ha dejado al mundo. En esta colección se incluye información sobre la investigación y evidencia. La entrada es de $10 para adultos y de $9 para personas mayores y niños. Los niños menores de seis años entran gratis.
+
+La torre Reunión es mejor conocida como "la pelota" en el perfil de los edificios del centro de Dallas. Construida como parte del Hotel Regency Hyatt, la Torre Reunión es el 15vo edificio más alto de Dallas. Los ascensores con vista, llevan a los turistas hasta el piso 50. En el primer nivel hay un patio de observación de 360 grados, llamado el Lookout, o punto de observación, donde podrá observar la espléndida vista de la zona de Dallas y Fort Worth. Un nivel más arriba está el elegante restaurante de servicio completo Antares, que está abierto para almuerzo y cena, y para brunch los días domingo. En el más alto nivel está "la cúpula", un bar abierto todas las noches y que sirve bebidas, comida y entretenimiento. La cúpula y Antares están sobre una plataforma giratoria, que completa su rotación cada 55 minutos. Una visita a la Torre Reunión es verdaderamente una experiencia inolvidable.
+
+Deep Ellum está ubicado a tres cuadras del centro de Dallas y data de poco tiempo después de la Guerra Civil, cuando los esclavos ahora liberados se empezaron a establecer, lo que transformó esta zona en una de las partes con más variedad cultural de Dallas. En una época, esta zona fue el distrito de los edificios de almacenamiento, con varias industrias allí establecida como la del gin de algodón y las plantas de ensamblado de Henry Ford. Hoy en día, Deep Ellum es el centro de la escena musical de Dallas y es considerada una zona progresiva y moderna. Es fantástico salir a recorrer esta zona y ver a las bandas en vivo en los distintos bares y clubes.
+
+El Distrito de las Artes es un barrio de 61, 7 acres ubicado en el noreste del Centro de Dallas. Más de 13 organizaciones y establecimientos residen en el Distrito de las Artes, incluyendo el Museo de Artes de Dallas, con su impresionante colección de más de 23.000 piezas de arte de todo el mundo, desde piezas de la antigüedad hasta piezas contemporáneas. Encontrará en exhibición arte de África, Europa, el Antiguo Mediterráneo, Islas del Pacífico, Asia y América. Frecuentemente encontrará exhibiciones temporarias provenientes de todas partes del mundo y se anuncian con más de un año de anticipación. La entrada cuesta $10 para adultos, $7 para personas mayores, $5 para estudiantes y los niños menores de trece años entran sin cargo.
+
+El Museo de Historia Natural de Dallas satisface la curiosidad de los visitantes sobre los tiempos prehistóricos, con una colección de más de 280.000 especímenes. Tiene diez exhibiciones permanentes que incluyen Dallas durante la Edad de Hielo, Dinosaurios de Tejas y la Caminata por la Laguna. La exhibición El Océano Dallas tiene un Heath Mosasaurio de Océano, un reptil de 32 pies de largo que nadó cerca de Dallas unos 75 millones de años atrás, y un Protostega, una tortuga de mar gigante que vivió aproximadamente 65 millones de años atrás. El museo está ubicado en Fair Park, a sólo unos minutos al este del centro. La entrada cuesta $7 para adultos, $6 para personas mayores, $5 para niños de entre 13 y 18 años, $4 para niños de 3 a 12 años y es gratuita para niños menores de 3 años.
+
+El Zoológico de Dallas está ubicado a sólo unos pocos minutos al sur del centro, bajándose de la autopista 35 Este. El zoológico está dividido en dos secciones. El Zoológico del Norte y las Tierras Salvajes de África. Una de las numerosas atracciones que tiene el Zoológico Norte es su hábitat para tigres en peligro de extinción, y una sección donde los niños pueden tocar y peinar a ciertos animales. Las Tierras Salvajes de África tiene seis hábitats principales. El precio de las entradas es de $8 para adultos, $4 para personas mayores, $5 para niños de 3 a 11 años y gratuita para niños menores de 3.
+
+Dallas tiene muchos centros comerciales por toda la Metroplex. Uno de los más impresionantes es la hermosa Galería multinivel Dallas, donde encontrará más de 200 negocios, incluyendo tiendas de primera categoría como Tiffany & Co. y Louis Vuitton. Las tiendas principales son Macy´s, Nordstrom y Saks Fifth Avenue. Bajo un techo elevado, los amantes del patinaje sobre hielo podrán disfrutar de una pista de patinaje recientemente renovada, inspirada en la Galeria Vittorio Emanuele de Milán, Italia. La Galería Dallas es el paraíso de quienes aman salir a comprar.
+
+La Galería Dallas no es el único buen lugar para salir de compras. La Highland Park Village tiene excelentes opciones de compra y muy buenos restaurantes, y está ubicada en el norte del centro de la ciudad, en Mockingbird Lane y la calle Preston. Ud. podrá pedirse su café de Starbucks para disfrutar mientras pasea por los negocios y boutiques. Cole Han y Chanel son un par de los negocios ubicados en este centro de compras, junto con centros de belleza, centros de salud, un cine, una panadería y restaurantes.
+
+No querrá perderse un viaje por los Trolleys o tranvías eléctricos de la Avenida McKinney, que conectan el Distrito de las Artes del Norte con la pintoresca e histórica zona de Uptownn. Uptown es una zona de alta categoría que ofrece docenas de boutiques, galerías, hoteles y restaurantes, incluyendo el Hard Rock Café. Su experiencia en Uptown incluirá cenas de primera categoría en los finos restaurantes, compras de primera categoría y arte de primera categoría.
+
+Si Ud. prefiere comprar en las tiendas de venta directa de fábrica, prueba los shoppings de venta directa de Allen Premium, en Allen, TX, al norte de Dallas, bajando por la Autopista 75. Tiene más de 90 negocios distintos y un patio de comidas.
+
+Dallas también es famosa por su equipo de fútbol americano, los Cowboys de Dallas, y por sus porristas. Los Cowboys no juegan en Dallas exactamente, sino a unas 13 millas a las afueras de la ciudad, en Irving, en el Estadio Texas. El equipo de béisbol Texas Rangers juega en el Estadio Ameriquest en Arlington, ubicado a unas 22 millas de Dallas. Al norte del West End está el Centro American Airlines, donde juega el equipo profesional de básquetbol, los Dallas Maverick, y el equipo de jockey, los Dallas Stars.
+
