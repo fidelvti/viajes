@@ -20,23 +20,42 @@ function escapeAttr(value) {
 
 function renderInline(markdown) {
   let text = escapeHtml(markdown);
+  const tokens = [];
+
+  function preserve(html) {
+    const token = `\u0000INLINE${tokens.length}\u0000`;
+    tokens.push(html);
+    return token;
+  }
 
   text = text.replace(/!\[([^\]]*)\]\(([^)\s]+)(?:\s+"([^"]*)")?\)/g, (_match, alt, href, title) => {
-    const decodedHref = decodeURI(href);
+    let decodedHref = href;
+    try {
+      decodedHref = decodeURI(href);
+    } catch {
+      // Keep malformed legacy URLs usable instead of aborting the conversion.
+    }
     const ext = path.extname(decodedHref).toLowerCase();
     const label = alt || path.basename(decodedHref);
 
     if (imageExtensions.has(ext)) {
       const titleAttr = title ? ` title="${escapeAttr(title)}"` : "";
-      return `<img src="${escapeAttr(href)}" alt="${escapeAttr(alt)}"${titleAttr}>`;
+      return preserve(`<img src="${escapeAttr(href)}" alt="${escapeAttr(alt)}"${titleAttr}>`);
     }
 
-    return `<a class="attachment" href="${escapeAttr(href)}">${renderInline(label)}</a>`;
+    return preserve(`<a class="attachment" href="${escapeAttr(href)}">${renderInline(label)}</a>`);
   });
 
   text = text.replace(/\[([^\]]+)\]\(([^)\s]+)(?:\s+"([^"]*)")?\)/g, (_match, label, href, title) => {
     const titleAttr = title ? ` title="${escapeAttr(title)}"` : "";
-    return `<a href="${escapeAttr(href)}"${titleAttr}>${renderInline(label)}</a>`;
+    return preserve(`<a href="${escapeAttr(href)}"${titleAttr}>${renderInline(label)}</a>`);
+  });
+
+  text = text.replace(/(?:https?:\/\/|www\.)[^\s<>\u0000]+/g, (rawUrl) => {
+    const trailing = rawUrl.match(/[.,;:!?\])}]+$/)?.[0] || "";
+    const url = trailing ? rawUrl.slice(0, -trailing.length) : rawUrl;
+    const href = url.startsWith("www.") ? `https://${url}` : url;
+    return preserve(`<a href="${href}">${url}</a>`) + trailing;
   });
 
   text = text.replace(/`([^`]+)`/g, "<code>$1</code>");
@@ -44,6 +63,8 @@ function renderInline(markdown) {
   text = text.replace(/__([^_]+)__/g, "<strong>$1</strong>");
   text = text.replace(/(^|[^\w])\*([^*\n]+)\*/g, "$1<em>$2</em>");
   text = text.replace(/(^|[^\w])_([^_\n]+)_/g, "$1<em>$2</em>");
+
+  text = text.replace(/\u0000INLINE(\d+)\u0000/g, (_match, index) => tokens[Number(index)]);
 
   return text;
 }
